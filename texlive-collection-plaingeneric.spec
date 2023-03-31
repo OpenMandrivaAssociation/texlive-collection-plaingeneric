@@ -1,6 +1,6 @@
 Name:		texlive-collection-plaingeneric
 Version:	65016
-Release:	1
+Release:	2
 Summary:	Plain (La)TeX packages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/collection-plaingeneric
