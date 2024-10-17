@@ -3,7 +3,7 @@ Version:	65016
 Release:	2
 Summary:	Plain (La)TeX packages
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/collection-plaingeneric
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/collection-plaingeneric
 License:	
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/collection-plaingeneric.r%{version}.tar.xz
 BuildArch:	noarch
